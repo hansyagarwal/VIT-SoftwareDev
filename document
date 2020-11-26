@@ -1,0 +1,15 @@
+run using
+```
+javac HitwicketQues.java
+java HitwicketQues
+```
+
+give player1 input as example P2 P1 P3 P4 P5
+
+give player2 input same as player 1 and give pawn name from P6 to P10
+
+next give pawn name and direction, example P2 F
+
+where F = forward, B = backward, L= left, R= right
+
+type quit to quit
